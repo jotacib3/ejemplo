@@ -4,6 +4,4 @@ Agregamos algo mas en el archivo
 
 Otra linea
 
-Minombre es juan jose
-
-Mi apellido es Lopez
+Mi  nombre es juan jose
